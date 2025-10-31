@@ -2,7 +2,6 @@
 
 # 🧩 CFPB Consumer Financial Complaints Analytics Dashboard
 
-### Data-Driven Insights into Consumer Financial Protection and Corporate Accountability
 
 **Developed by:** *Emmanuel Idowu*
 **Tool:** Microsoft Power BI | **Dataset Source:** Consumer Financial Protection Bureau (CFPB)
