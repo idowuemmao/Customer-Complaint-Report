@@ -183,6 +183,8 @@ FORMAT(_BottomGrowth, "0.0%") & "% — spotlighting accountability and performan
 
 ## REPORT LINK: [CLICK HERE](https://app.powerbi.com/view?r=eyJrIjoiMzM5NGEzYjEtYzdlZC00ZGVkLWEyMjctMjc0ODNmMmU1M2U5IiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9)
 
+<img width="1080" height="1350" alt="1761749844863" src="https://github.com/user-attachments/assets/d5af9ad5-be8e-4513-9ebf-a81d4fff9a78" />
+
 ---
 
 ## 🧰 **Tools and Techniques**
